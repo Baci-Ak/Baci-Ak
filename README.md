@@ -1,6 +1,14 @@
-[![MasterHead](https://png.pngtree.com/background/20220714/original/pngtree-blue-technology-particle-linear-background-picture-image_1619699.jpg)]
 <h1 align="center">Hi 👋, I'm Baci Ak</h1>
-<h3 align="center">A passionate data scientist/Analyst based in the Uk</h3>
+<h3 align="center">💻Data Scientist, Big Data Analyst, Statistician, and Data Engineer 🇬🇧</h3>
+<h3 align="center">Transforming complexity into clarity through data 📊✨</h3>
+
+<img width="1085" alt="Screen Shot 2022-10-28 at 9 04 58 AM" src="https://github.com/Baci-Ak/Baci-Ak/assets/134199508/ef9b1c8e-f348-4445-997b-dce11873e357">
+
+
+
+
+<h1 align="center">Turning Data into Insights, One Byte at a Time 📊✨</h1>
+<h3 align="center">"Crunching Data, Crafting Solutions."</h3>
 
 <p align="left"> <img src="https://camo.githubusercontent.com/551d9c55b8ce9f778ddf645bc97bd0a8755a6c1ba63974e478349683e50ab053/68747470733a2f2f696d616765696f2e666f726265732e636f6d2f7370656369616c732d696d616765732f64616d2f696d61676573657276652f3936363234383938322f39363078302e6a70673f666f726d61743d6a70672677696474683d393630">
 
