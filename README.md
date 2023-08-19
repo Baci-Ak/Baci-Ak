@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Baci Ak</h1>
-<h3 align="center">💻Data Scientist, Big Data Analyst, Statistician, and Data Engineer 🇬🇧</h3>
-<h3 align="center">Transforming complexity into clarity through data 📊✨</h3>
+<h1 align="center">Hi 👋</h1>
+
+![github_coverpage](https://github.com/Baci-Ak/Baci-Ak/assets/134199508/ed6effe5-9766-49e6-9b33-ee40e72740b7)
+
+<h1 align="center">Transforming complexity into clarity through data 📊✨</h1>
 
 <img width="1085" alt="Screen Shot 2022-10-28 at 9 04 58 AM" src="https://github.com/Baci-Ak/Baci-Ak/assets/134199508/ef9b1c8e-f348-4445-997b-dce11873e357">
 
