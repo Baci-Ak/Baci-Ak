@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
-![github_coverpage](https://github.com/Baci-Ak/Baci-Ak/assets/134199508/ed6effe5-9766-49e6-9b33-ee40e72740b7)
+
+![Bassey Akom_Linkedin_page](https://github.com/Baci-Ak/Baci-Ak/assets/134199508/d4afcd54-267a-4c6f-9e5a-a1bcaf5f0920)
 
 <h1 align="center">Transforming complexity into clarity through data 📊✨</h1>
 
