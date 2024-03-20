@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋</h1>
 
+![verified-international-academic-qualifications 1](https://github.com/Baci-Ak/Baci-Ak/assets/134199508/5144b9b2-6bd7-4216-b518-23150dbd6a42)
+
+
 
 ![Bassey Akom_Linkedin_page](https://github.com/Baci-Ak/Baci-Ak/assets/134199508/d4afcd54-267a-4c6f-9e5a-a1bcaf5f0920)
 
