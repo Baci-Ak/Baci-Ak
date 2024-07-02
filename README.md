@@ -1,15 +1,23 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=baci-ak&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<h1 align="center">Hi 👋</h1>
   
 ### About Me:    
 I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
 
 Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
+
+
+![verified-international-academic-qualifications 1](https://github.com/Baci-Ak/Baci-Ak/assets/134199508/5144b9b2-6bd7-4216-b518-23150dbd6a42)
+
        
    
 ### Social media: 📡    
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
-
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/from_the_teapot_to_the_investor)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/basseyakom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/basseyakom/" height="30" width="40" /></a>
+</p>
 
 ## Competitions: 🥇
  
@@ -83,10 +91,6 @@ Join me on Telegram, where I share insights, victories, and even the occasional 
 |----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macOS" alt="macOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |
 
-### Tools for CTFs:
-| Metasploit | Wireshark | Burp Suite | Netcat | Nmap |
-|----------|----------|----------|----------|----------|
-|<img src="assets/meta.png" alt="Metasploit" width="85" height="55" />|<img src="assets/Wireshark_icon.svg.png" alt="Wireshark" width="55" height="55" />|<img src="assets/burp.svg" alt="Burp Suite" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="Netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="Nmap" width="55" height="55" />|
 
 
 
