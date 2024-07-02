@@ -9,43 +9,18 @@ I'm a passionate data scientist with a knack for predictive analytics, specializ
 Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
 
 
-![verified-international-academic-qualifications 1](https://github.com/Baci-Ak/Baci-Ak/assets/134199508/5144b9b2-6bd7-4216-b518-23150dbd6a42)
-
        
    
-### Social media: 📡    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/basseyakom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/basseyakom/" height="30" width="40" /></a>
 </p>
 
-## Competitions: 🥇
- 
-### CTF's
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|CIT@CTF|top 6%| undermouses |04/2024|
-|BSidesSF CTF|top 10%| movie43 |05/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|vksCTF|top 18%| Solo played |09/2023|
-|Space HeroesCTF| top 23% | undermouses |04/2024|
-|AI CTF|top 23%|movie43|05/2024|
-|BCACTF 5.0|top 25%|movie43|06/2024|
-|vsCTF|top 26%| movie43 |06/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-
-### Algorithms [LeetCode](https://leetcode.com/sammorozov/)
 
 
 ### Working on: 🚀
 
-- Learning [GO](https://github.com/sammorozov/go_basics_study)
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
+- Learning [GO](https://baci-ak.github.io/post.html)
 
 
 ## Languages and Tools 
