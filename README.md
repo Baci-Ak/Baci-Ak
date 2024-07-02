@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👋</h1>
   
-### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+   
+I'm a versatile professional with a strong background in data science, engineering, analysis, maths & statistics. Passionate about leveraging data-driven insights to solve complex problems. Proficient in Python, SQL, R, and SAS for data manipulation and modeling. Skilled in cloud computing with a focus on Azure. Excited about learning new technologies and delivering impactful solutions.
 
 Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
 
@@ -15,6 +15,8 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/basseyakom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/basseyakom/" height="30" width="40" /></a>
 </p>
+
+- 📫 How to reach me **bassi.cim@gmail.com**
 
 
 
@@ -27,7 +29,7 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 <div>
 
 ### Languages:
-| Python3 | SQL | R | SAS | Bash |
+| Python | SQL | R | SAS | Bash |
 |----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL"  alt="SQL" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/> | <img src="assets/SAS.png" title="SAS" alt="SAS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="55" height="55"/> |
 
