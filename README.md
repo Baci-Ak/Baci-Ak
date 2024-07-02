@@ -6,9 +6,12 @@
    
 I'm a versatile professional with a strong background in data science, engineering, analysis, maths & statistics. Passionate about leveraging data-driven insights to solve complex problems. Proficient in Python, SQL, R, and SAS for data manipulation and modeling. Skilled in cloud computing with a focus on Azure. Excited about learning new technologies and delivering impactful solutions.
 
-Currently, I'm delving into the realms of decentralized finance (DeFi) and web3, where I'm actively engaged in crafting and analyzing smart contracts. During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
+Currently, I'm deeply immersed in the fascinating field of fractal derivatives in data science and machine learning, exploring their applications in developing advanced systems. My work involves leveraging these cutting-edge techniques to uncover new insights and optimize algorithms for enhanced performance and accuracy.
 
 
+### Working on: 🚀
+
+- Learning [GO](https://baci-ak.github.io/post.html)
        
    
 ## Connect with me:
@@ -22,13 +25,6 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
   </a>
 </p>
 
-
-
-
-
-### Working on: 🚀
-
-- Learning [GO](https://baci-ak.github.io/post.html)
 
 
 ## Languages and Tools 
