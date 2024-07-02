@@ -11,12 +11,18 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
        
    
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/basseyakom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/basseyakom/" height="30" width="40" /></a>
+  <a href="mailto:bassi.cim@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/basseyakom/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
-- 📫 How to reach me **bassi.cim@gmail.com**
+
 
 
 
