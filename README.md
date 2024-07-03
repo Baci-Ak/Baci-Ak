@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋</h1>
   
    
-I'm a versatile professional with a strong background in data science, engineering, analysis, maths & statistics. Passionate about leveraging data-driven insights to solve complex problems. Proficient in Python, PySpark, SQL, R, and SAS for data manipulation and modeling. Skilled in cloud computing with a focus on Azure. Excited about learning new technologies and delivering impactful solutions.
+I'm a versatile data scientist, engineer, analyst, maths & statistician. Passionate about leveraging data-driven insights to solve complex problems. Proficient in Python, PySpark, SQL, R, and SAS for data manipulation and modeling. Skilled in cloud computing with a focus on Azure. Excited about learning new technologies and delivering impactful solutions.
 
 Currently, I'm deeply immersed in the fascinating field of fractal derivatives in data science and machine learning, exploring their applications in developing advanced systems. My work involves leveraging these cutting-edge techniques to uncover new insights and optimize algorithms for enhanced performance and accuracy.
 
