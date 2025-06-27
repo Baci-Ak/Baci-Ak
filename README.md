@@ -3,25 +3,32 @@
 
 
 <!-- INTRO -->
-<h1 align="center">👋 Hi there, I'm Bassey Akom</h1>
+<h1 align="center">👋 Hey, I'm Bassey Akom</h1>
 
 <p align="center">
-  <em><strong>Data Scientist</strong> | <strong>Data Analyst</strong> | <strong>Data Engineer</strong> | <strong>Statistician</strong></em> <br/>
-  <em>Solving world's problems with data, math, and code</em>
+  <strong>Data Scientist</strong> • <strong>Engineer</strong> • <strong>Analyst</strong> • <strong>Statistician</strong><br>
+  <em>I build intelligent systems that turn complex data into clear, actionable insight.</em>
 </p>
 
+<p align="center">
+  Passionate about math, code, and scalable analytics. <br>
+  Currently exploring fractal derivatives, cloud ML, and real-time data engineering.
+</p>
+
+
 ---
-  
-   
+
 ### 🔍 About Me
 
-- 🎓 Background in **Mathematics & Statistics**, passionate about data-driven innovation.
-- 💻 Proficient in **Python**, **SQL**, **R**, **SAS**, **PySpark**, and **Azure** cloud.
-- 🧠 Exploring cutting-edge topics like **fractal derivatives** in machine learning.
-- 🔧 Building smart systems and scalable pipelines.
-
+- 🎓 Mathematician turned data professional, grounded in statistical theory and real-world systems.
+- 🛠️ Designing end-to-end data pipelines, ML workflows, and cloud-native solutions that scale.
+- 🚀 Skilled in Python, SQL, R, SAS, PySpark, Azure, Power BI — building data platforms.
+- 📊 Strong focus on **generative AI**, **real-time analytics**, **MLOps**, and **data reliability engineering**.
+- 💬 I care about clarity, reproducibility, and automation.
+- 🌍 Advocating for open-source collaboration and knowledge sharing in data science.
 
 ---
+
 
 ### Working on: 🚀
 
@@ -95,58 +102,33 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="macOS" alt="macOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
 </div>
-
-
-
-
-
-
-<!--
-
-### It's not technology, but I use it. The section will be changed soon.:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
---> 
 </div>
+
+<br>
 
 ---
 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=baci-ak&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+### 📈 GitHub Stats & Activity
 
 
----
-
-
-
+<br>
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=baci-ak&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baci-ak&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=baci-ak&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baci-ak&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </p>
- 
 
+<br>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=baci-ak&style=for-the-badge&color=orange" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=baci-ak&style=for-the-badge&color=orange" alt="Profile Views">
 </div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<br>
 
+<p align="center">
+  <img width="90%" src="assets/github-snake.svg" alt="GitHub contribution snake animation" />
+</p>
 
 
 
