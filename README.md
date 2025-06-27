@@ -1,30 +1,45 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=baci-ak&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=baci-ak&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)
 
 
-<h1 align="center">Hi 👋</h1>
+
+<!-- INTRO -->
+<h1 align="center">👋 Hi there, I'm Bassey Akom</h1>
+
+<p align="center">
+  <em><strong>Data Scientist</strong> | <strong>Data Analyst</strong> | <strong>Data Engineer</strong> | <strong>Statistician</strong></em> <br/>
+  <em>Solving world's problems with data, math, and code</em>
+</p>
+
+---
   
    
-I'm a versatile data scientist, engineer, analyst, maths & statistician. Passionate about leveraging data-driven insights to solve complex problems. Proficient in Python, PySpark, SQL, R, and SAS for data manipulation and modeling. Skilled in cloud computing with a focus on Azure. Excited about learning new technologies and delivering impactful solutions.
+### 🔍 About Me
 
-Currently, I'm deeply immersed in the fascinating field of fractal derivatives in data science and machine learning, exploring their applications in developing advanced systems. My work involves leveraging these cutting-edge techniques to uncover new insights and optimize algorithms for enhanced performance and accuracy.
+- 🎓 Background in **Mathematics & Statistics**, passionate about data-driven innovation.
+- 💻 Proficient in **Python**, **SQL**, **R**, **SAS**, **PySpark**, and **Azure** cloud.
+- 🧠 Exploring cutting-edge topics like **fractal derivatives** in machine learning.
+- 🔧 Building smart systems and scalable pipelines.
 
+
+---
 
 ### Working on: 🚀
 
 - Learning [GO](https://baci-ak.github.io/post.html)
-       
-   
-## Connect with me:
+
+---
+### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:bassi.cim@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/basseyakom/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="mailto:bassi.cim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/basseyakom/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
+---
 
 
 ## Languages and Tools 
