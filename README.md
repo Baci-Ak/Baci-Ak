@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  Passionate about math, code, and scalable analytics. <br>
-  Currently exploring fractal derivatives, cloud ML, and real-time data engineering.
+  Passionate about solving world problem with Data Science, AI, and mathematics. <br>
+ 
 </p>
 
 
