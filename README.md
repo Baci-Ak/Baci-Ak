@@ -22,7 +22,7 @@
 
 - 🎓 Mathematician turned data professional, grounded in statistical theory and real-world systems.
 - 🛠️ Designing end-to-end data pipelines, ML workflows, and cloud-native solutions that scale.
-- 🚀 Skilled in Python, SQL, R, SAS, PySpark, Azure, Power BI — building data platforms.
+- 🚀 Skilled in Python, SQL, R, SAS, PySpark, Azure, Power BI  building data platforms.
 - 📊 Strong focus on **generative AI**, **real-time analytics**, **MLOps**, and **data reliability engineering**.
 - 💬 I care about clarity, reproducibility, and automation.
 - 🌍 Advocating for open-source collaboration and knowledge sharing in data science.
