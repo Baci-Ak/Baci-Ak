@@ -104,14 +104,6 @@
 ### 📈 GitHub Stats & Activity
 
 
-<br>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=baci-ak&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baci-ak&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
-</p>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=baci-ak&style=for-the-badge&color=orange" alt="Profile Views">
