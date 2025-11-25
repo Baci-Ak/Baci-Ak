@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hey, I'm Bassey Akom</h1>
 
 <p align="center">
-  <strong>Data Scientist</strong> • <strong>Engineer</strong> • <strong>Analyst</strong> • <strong>Statistician</strong><br>
+  <strong>Data Scientist</strong> • <strong>Machine Learning Engineer</strong> • <strong>Data Analyst</strong> • <strong>Statistician</strong><br>
   <em>I build intelligent systems that turn complex data into clear, actionable insight.</em>
 </p>
 
@@ -18,21 +18,15 @@
 
 ---
 
-### 🔍 About Me
+### 🔍 Technical
 
-- 🎓 Mathematician turned data professional, grounded in statistical theory and real-world systems.
-- 🛠️ Designing end-to-end data pipelines, ML workflows, and cloud-native solutions that scale.
-- 🚀 Skilled in Python, SQL, R, SAS, PySpark, Azure, Power BI  building data platforms.
-- 📊 Strong focus on **generative AI**, **real-time analytics**, **MLOps**, and **data reliability engineering**.
-- 💬 I care about clarity, reproducibility, and automation.
-- 🌍 Advocating for open-source collaboration and knowledge sharing in data science.
+- That’s what I do on this very version control tool!
+- Explore my public work in the [Repositories](https://github.com/Baci-Ak?tab=repositories) section.
+- Creator of open-source projects:  
+  - **B-Vista** → https://pypi.org/project/bvista/  
+  - **Books API** → https://booksapi.datsx.com  
+  - **YouTube Sentiment Chrome Extension** → https://chromewebstore.google.com/detail/youtube-sentiment-insight/bcamjojmdplpbgjblabomkjbbpnnefie
 
----
-
-
-### Working on: 🚀
-
-- Learning [GO](https://baci-ak.github.io/post.html)
 
 ---
 ### 📫 Connect With Me
@@ -90,11 +84,10 @@
 <br>
 
 ### ☁️ Cloud & DevOps
-| Azure | Docker | Git |
-|-------|--------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> |
+| Azure | Docker | Git | CI/CD |
+|-------|--------|-----|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55"/> |
 
-<br>
 
 ### 💻 Operating Systems
 | macOS | Windows | Linux | Ubuntu |
@@ -129,6 +122,5 @@
 <p align="center">
   <img width="90%" src="assets/github-snake.svg" alt="GitHub contribution snake animation" />
 </p>
-
 
 
