@@ -3,7 +3,7 @@
 
 
 <!-- INTRO -->
-<h1 align="center">👋 Hey, I'm Bassey Akom</h1>
+<h1 align="center">👋 Hey!, I'm Bassey Akom - Data Professional</h1>
 
 <p align="center">
   <strong>Data Scientist</strong> • <strong>Machine Learning Engineer</strong> • <strong>Data Analyst</strong> • <strong>Statistician</strong><br>
